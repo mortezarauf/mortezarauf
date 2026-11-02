@@ -45,8 +45,8 @@ Bridging physical engineering and intelligent software architectures. Experience
 
 ### 📬 Connect With Me
 
-- 🌐 **Website:** [morteza.ir](https://morteza.ir)
-- 💼 **LinkedIn:** [linkedin.com/in/mortezaraouf](https://linkedin.com)
-- ✉️ **Email:** [info@morteza.ir](mailto:info@morteza.ir)
+- 🌐 **Website:** [mortezarauf.ir](https://mortezarauf.ir)
+- 💼 **LinkedIn:** [linkedin.com/in/mortezarauf]
+- ✉️ **Email:** [info@mortezarauf.ir](mailto:info@mortezarauf.ir)
 
 ```
